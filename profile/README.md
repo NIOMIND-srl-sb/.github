@@ -19,6 +19,7 @@ We are a benefit corporation that combines the art of software development with 
 ## Our Services
 
 Our goal is to be the technological partner you can rely on, developing tailor-made software solutions designed to advance your business and achieve your strategic goals.
+
 ![mockup-ezgif com-crop](https://github.com/NIOMIND-srl-sb/.github/assets/131581018/4cf49f65-071d-4a35-b6ff-a77a86e784a6)
 
 
@@ -30,8 +31,6 @@ Our goal is to be the technological partner you can rely on, developing tailor-m
 - Branding
 
 [Show more](https://www.niomind.com/service)
-
-
 
 ## About Us
 ![people](https://github.com/NIOMIND-srl-sb/.github/assets/131581018/faad36d1-240a-49b1-b8bc-4e0e871d3438)
